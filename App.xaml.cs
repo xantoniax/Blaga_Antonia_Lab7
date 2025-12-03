@@ -25,7 +25,7 @@ namespace BlagaAntoniaLab7
         public App()
         {
             InitializeComponent();
-            MainPage = new AppShell();
+            //MainPage = new AppShell();
         }
 
 
